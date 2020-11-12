@@ -9,9 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/klanrali/TeleThon-IQ/",
-  "website": "#TODO",
-  "success_url": "#TODO",
+
   "env": {
     "ENV": {
       "description": "ضع هنا كود تيرمكس ايضا",
