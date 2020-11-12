@@ -1,8 +1,8 @@
-# IQTHON-BOT
+# TELETHON - FOR IRAQ
 
 <p align="center">
 
-<img src="https://telegra.ph/file/37a73a5054c344d59710f.jpg" alt="Telethon">
+<img src="https://telegra.ph/file/7e20b797f94ca19fa8125.jpg" alt="Telethon">
 
 Best User Bot To Manage Your Telegram Account 
 ## © By Team #TeleThon™
@@ -19,13 +19,13 @@ Best User Bot To Manage Your Telegram Account
 
  
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thoniraq/telethon )
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/klanrali/TeleThon-IQ )
 
-Termix codes for installation through Termex in Google Play for installing Source Iraq Thon :
+Termix codes for installation through Termex in Google Play for installing Source telethon Thon :
 
 `sh
 
-git clone https://github.com/thoniraq/telethon
+git clone https://github.com/klanrali/TeleThon-IQ
 
 cd iraqthon
 
