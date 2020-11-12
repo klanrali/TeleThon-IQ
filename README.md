@@ -2,10 +2,10 @@
 
 <p align="center">
 
-<img src="https://telegra.ph/file/37a73a5054c344d59710f.jpg" alt="IQTHON">
+<img src="https://telegra.ph/file/37a73a5054c344d59710f.jpg" alt="Telethon">
 
 Best User Bot To Manage Your Telegram Account 
-## © By Team #IQTHON™
+## © By Team #TeleThon™
 
 ### For any query or want to know how it works join Group And Channel 
 
@@ -15,7 +15,7 @@ Best User Bot To Manage Your Telegram Account
 
 <a href="https://youtu.be/HKLtmbiFi_Q"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
-### Host iraqbot In Heroku
+### Host #TeleThon™ In Heroku
 
  
 
