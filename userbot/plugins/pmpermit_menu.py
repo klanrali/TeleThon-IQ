@@ -29,7 +29,7 @@ from userbot import ALIVE_NAME, LESS_SPAMMY
 from userbot.utils import admin_cmd
 
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No name set yet nibba, check pinned message in @XtraTgBot"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "No name set yet nibba, check pinned message in @iQTHON"
 PREV_REPLY_MESSAGE = {}
 
 
@@ -42,19 +42,23 @@ async def _(event):
         if event.fwd_from:
             return
         if event.is_private:
-         Nudas = ("__Please state your gender.__\n"
-                  "`1`. Female Homo-Sapien\n"
-                  "`2`. Male Homo-Sapien\n"
-                  "`3`. Other\n")
-         PM = ("`Hello. You are accessing the availabe menu of my peru master,`"
-               f"{DEFAULTUSER}.\n"
-               "__Let's make this smooth and let me know why you are here.__\n"
-               "**Choose one of the following reasons why you are here:**\n\n"
-               "`1`. To chat with my master\n"
-               "`2`. To spam my master's inbox.\n"
-               "`3`. To send nudes.\n"
-               "`4`. To enquire something\n"
-               "`5`. To request something\n")
+Nudas = ("ذكر الجنسيه.__\n"
+                  "1. ➥•Source TeleThon Channel @IQTHON\n"
+                  "2. ➥•Principal developer: @klanr\n"
+                  "3. ➥•BOT commands TeleThon @iraqthonbot\n")
+         PM = ("➥•Welcome to Source TeleThon"
+            f"{DEFAULTUSER}.\n"
+            "➥•Source TeleThon Channel @IQTHON\n"
+            "➥•Principal developer: @klanr\n"
+            "➥•Never repeat here\n"
+            "➥•Email the person now\n"
+            "➥•BOT commands TeleThon @iraqthonbot\n"
+            "➥•In case here is a problem, send .restart\n")
+         ONE = ("حسنا ارسل رسالتك كامله عند الفراغ ارد عليك")
+         TWO = ("@IQTHON")
+         THREE = ("@IQTHON")
+         FOUR = ("@iraqthonbot")
+         LWARN = ("https://www.youtube.com/watch?v=HKLtmbiFi_Q&t=3s")
          ONE = ("__Okay. Your request has been registered. Do not spam my master's inbox.You can expect a reply within 24 light years. He is a busy man, unlike you probably.__\n\n"
                 "**⚠️ You will be blocked and reported if you spam nibba. ⚠️**\n\n"
                 "__Use__ `/start` __to go back to the main menu.__")
