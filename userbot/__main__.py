@@ -74,7 +74,7 @@ for name in files:
 
 import userbot._core
 
-print("Yay your userbot is officially working. Ja gaand mara")
+print("Thank you for using Telethon Iraq. Now the bot is working. Follow our channel : T.me/IQTHON")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
