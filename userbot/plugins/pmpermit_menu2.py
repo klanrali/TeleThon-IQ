@@ -17,5 +17,5 @@ async def amireallyalive(alive):
                      "➥•🔅  Created By: [CH KLANR](https://t.me/RXXRX) || [CH IQ](https://t.me/IQTHON)\n"
                      "➥•🤖 BOT ORDERS @iraqthonbot\n"
                      "➥• 🗂 The Files : [Here](https://t.me/YZZZY)\n"
-                     "➥• Source link ♻️ : [Here](https://heroku.com/deploy?template=https://github.com/thoniraq/telethon)\n"
+                     "➥• Source link ♻️ : [Here](https://heroku.com/deploy?template=https://github.com/klanrali/TeleThon-IQ)\n"
                     f"➥•🥳 My Master : {DEFAULTUSER}\n")
